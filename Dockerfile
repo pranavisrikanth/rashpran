@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="rashpran"
 ARG DESCRIPTION="Base class repo for UML EECE 5560"
-ARG MAINTAINER="Pranavi Srikanth (pranavisrikanth6@gmail.com)"
+ARG MAINTAINER="pranavisrikanth (pranavisrikanth6@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
